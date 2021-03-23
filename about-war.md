@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Основные правила альянса
-permalink: /about/
+title: Основные правила войны
+permalink: /about-war/
 ---
 
 > 1.1. На войне центр синий.
