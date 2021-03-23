@@ -10,9 +10,9 @@ permalink: /about/
 
 > 1.3. Команда обороны выставляется в четкой цветовой последовательности: ЗКСФЖ либо ЖФСКЗ.
 
-| Природа                                                                                               | Огонь | Лед  | Тьма   | Святыня |
-| ----------------------------------------------------------------------------------------------------- | ----- | ---- | ------ | ------- |
-| ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Nature") | Red   | Blue | Purple | Yellow  |
+| Природа                                                                                                                           | Огонь                                                                                                                         | Лед                                                                                                                         | Тьма                                                                                                                          | Святыня                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ![alt text](https://raw.githubusercontent.com/shangri-la-aliance/shangri-la-aliance.github.io/blakmer/images/nature.png "Nature") | ![alt text](https://raw.githubusercontent.com/shangri-la-aliance/shangri-la-aliance.github.io/blakmer/images/fire.png "Fire") | ![alt text](https://raw.githubusercontent.com/shangri-la-aliance/shangri-la-aliance.github.io/blakmer/images/ice.png "Ice") | ![alt text](https://raw.githubusercontent.com/shangri-la-aliance/shangri-la-aliance.github.io/blakmer/images/dark.png "Dark") | ![alt text](https://raw.githubusercontent.com/shangri-la-aliance/shangri-la-aliance.github.io/blakmer/images/holy.png "Holy") |
 
 > 1.4. Время каждой волны и команды, которых бьем в первых двух волнах, указываются в закрепе.
 
